@@ -1,0 +1,30 @@
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Data Processing
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Image Processing
+Pillow
+opencv-python
+
+# Model Training & Evaluation
+tqdm
+torchmetrics
+
+# Jupyter Notebook
+jupyter
+ipykernel
+
+# Utilities
+scipy
